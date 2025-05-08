@@ -12293,6 +12293,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+           <Game>Sonic Forces:Overclocked
+        </Games>
+        <URLS>
+            <URL>https://raw.githubusercontent.com/Esonic2/SonicForcesOverclockedAutosplitterer/refs/heads/main/sfo.asl</URL>
+        </URLS>
+        <Type>Script</Type>
+        <Description> Autosplitter for Sonic Forces:Overclocked
+        <Website>https://github.com/Esonic2/SonicForcesOverclockedAutosplitterer/tree/main
+     </AutoSplitter>           
+     <AutoSplitter>
+         <Games>
             <Game>Sonic Frontiers</Game>
             <Game>Sonic Frontiers Category Extensions</Game>
         </Games>
